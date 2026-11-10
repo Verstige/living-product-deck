@@ -1,0 +1,18 @@
+{
+  "name": "living-product-deck",
+  "displayName": "Living Product Deck",
+  "version": "1.0.0",
+  "description": "Build or EDIT continuously-growing master documentation decks for products and platforms \u2014 single HTML file with TOC + section anchors, vertical-scroll slides, populated from actual codebase state. Use when asked for a state-of-platform deck, product vision doc, internal outlook, partner brief, or any deck that consolidates multiple sub-topics into one expandable document the user will keep adding to. Also use for renumbering and structural edits (delete slides, update phase status, swap vendor mentions, refresh from real codebase state).",
+  "author": {
+    "name": "the maintainers"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agent",
+    "living product deck"
+  ],
+  "skills": [
+    "./skills/"
+  ]
+}
